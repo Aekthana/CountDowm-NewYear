@@ -16,8 +16,8 @@
 }
 .card{
     /* height: 180px; */
-    width: 450px;
-    height: 270px;
+    width: 350px;
+    height: 200px;
     min-width: 280px;
     display: flex;
     flex-direction: column;
